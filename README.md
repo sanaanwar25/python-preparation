@@ -6,7 +6,7 @@ This repository tracks my structured Python practice as I prepare for open sourc
 - Improve problem-solving skills  
 - Learn Git and GitHub workflow  
 - Prepare for open-source contributions
-- 
+  
 ## Progress
 Daily Python programs are added in day-wise folders.
 
